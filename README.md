@@ -4,7 +4,7 @@
  - We will Predict whether a Customer that have expired his/her Membership for KKBox, will come back for a new Contract, or Cease his/her Membership with the Service.
 
 ## 2. Available Data
-The Data seems to be Downloaded from
+The Data can be Downloaded from
 [This kaggle Competition link](https://www.kaggle.com/c/kkbox-churn-prediction-challenge/data).
 ### transactions.csv
 transactions of users up until 2/28/2017.
