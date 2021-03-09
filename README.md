@@ -1,6 +1,5 @@
 # KKBox: Predicting Customer Behavior for Music Streaming Services
 ## 1. Overview
- - This is a Project for a Training Program at Tokio Marine Holdings, Inc.
  - The Project Goal is to Predict Customer Churn.
  - We will Predict whether a Customer that have expired his/her Membership for KKBox, will come back for a new Contract, or Cease his/her Membership with the Service.
 
